@@ -1,7 +1,7 @@
 ---
 layout: post
 title: adb,fastboot常用命令及刷机技巧
-tags: [android, adb, sideload, fastboot,摘录]
+tags: [android]
 ---
 
 此篇讲的内容是Android Debug Bridge（简称adb）的使用方法，学会它可以让你的刷机工作事半功倍！  

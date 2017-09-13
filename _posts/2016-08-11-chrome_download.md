@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome 独立离线安装包最新版下载方式
-tags: [chrome,download]
+tags: [工具]
 ---
 
 chrome 独立离线安装包最新版下载方式:

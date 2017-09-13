@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android Studio 常用快捷键
-tags: [keymap,studio]
+tags: [工具]
 ---
 
 一篇自己开发中Android studio  的 `常用快捷键`，希望对大家有所帮助。

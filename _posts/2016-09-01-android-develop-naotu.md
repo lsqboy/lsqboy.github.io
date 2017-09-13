@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android 开发路线图
-tags: [activity]
+tags: [android]
 ---
 
 

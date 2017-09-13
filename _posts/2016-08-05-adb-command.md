@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 手机刷机常用命令
-tags: [adb,command]
+tags: [android]
 ---
 
 > 一篇自己手机刷机所用的命令， 希望对大家有所帮助

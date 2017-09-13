@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu 必备软件
-tags: [ubuntu]
+tags: [linux]
 ---
 
 > 基于ubuntu 16.04 使用体验， 希望对大家有所帮助

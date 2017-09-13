@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WebView 使用问题
-tags: [webview]
+tags: [android]
 ---
 
 在海之讯二期开发过程中使用WebView遇到的问题。

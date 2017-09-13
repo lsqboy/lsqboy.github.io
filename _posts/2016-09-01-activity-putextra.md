@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Activity 跳转最佳实践
-tags: [activity]
+tags: [android]
 ---
 
 > 今天你听到防空警报了吗？

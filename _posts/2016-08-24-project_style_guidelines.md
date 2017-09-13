@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android Project Guidelines
-tags: [android,guidelines]
+tags: [android]
 ---
 
 Editor's Note: This article, reprinted from [Android Project Guidelines](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md)

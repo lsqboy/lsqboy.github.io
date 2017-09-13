@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu 分区方案
-tags: [ubuntu、分区]
+tags: [linux]
 ---
 
 > ubuntu 分区方案，个人总结。

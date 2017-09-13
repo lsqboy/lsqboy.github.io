@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker-Cheat-Sheet
-tags: [docker]
+tags: [linux]
 ---
 
 Editor's Note: This article, reprinted from [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)

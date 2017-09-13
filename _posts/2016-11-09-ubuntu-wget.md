@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ubuntu wget 乱码解决、批量下载
-tags: [wget、乱码、批量下载]
+tags: [linux]
 ---
 
 ## 下载服务器电影时候遇到乱码，下载下来的文件名都是乱码 或者是 无效的编码。

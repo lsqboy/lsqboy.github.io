@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nginx配置文件nginx.conf中文详解
-tags: [Nginx,config]
+tags: [linux]
 ---
 > 在搭建Wordpress Blog系统的时候遇到好多坑，Nginx配置文件一直不能理解。感觉这篇Nginx配置参数中文说明还是很不错，有需要的可以看看。
 
