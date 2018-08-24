@@ -11,13 +11,13 @@ title: 关于我
 
 标签: Android开发攻城狮
 
-爱好: 撸代码，美剧，github，ubuntu
+爱好: 撸代码，美剧，github
 
 现居地: 泉州
 
 QQ: 34208535
 
-Blog: [http://zteman.com](http://zteman.com)
+Blog: [http://zteman.github.io](http://zteman.github.io)
 
 Github: [https://github.com/zteman](https://github.com/zteman)
 
